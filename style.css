@@ -1,1 +1,60 @@
-/* Pudology website - HW3 Part 2 */
+/* Syrine Mekni - Pudology website - HW3 Part 2 */
+:root {
+    --avocado-green: #1E431F;
+    --cream: #F4EFE4;
+    --turmeric-gold: #D99A16;
+    --beet-pink: #C83F68;
+    --spirulina-blue: #0047A1;
+    --light-avocado-green: #7F963D;
+    --cacao-brown: #482919;
+}
+:root {
+  background-color: var(--cream);
+    color: black;
+}
+
+body {
+    background-color: var(--cream);
+    color: black;
+    font-family: Georgia, serif;
+    font-size: 1rem;
+    line-height: 1.7;
+    margin: 0;
+    padding: 0px;
+}
+
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+h3 {
+    font-size: 1.3rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+
+header {
+    padding: 32px;
+}
+
+main {
+    padding: 32px;
+}
+
+section {
+    margin-bottom: 3rem;
+}
+
+footer {
+    padding: 32px;
+}
