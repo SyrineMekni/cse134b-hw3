@@ -96,3 +96,8 @@ footer a[href*="faq"] {
         align-items: center;
     }
 }
+/* Make video fit in 357px */
+video {
+    max-width: 100%;
+    height: auto;
+}
