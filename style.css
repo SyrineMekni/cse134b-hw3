@@ -67,11 +67,11 @@ footer a[href*="instagram"] {
 }
 
 /* Contact Us link */
-footer a[href="contact.html"] {
+footer a[href*="contact"] {
     color: var(--turmeric-gold);
 }
 
 /* FAQ link */
-footer a[href="faq.html"] {
+footer a[href*="faq"] {
     color: var(--cacao-brown);
 }
