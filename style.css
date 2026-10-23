@@ -58,5 +58,21 @@ footer {
     padding: 32px;
 }
 nav a {
+    color: 
     padding: 0.5em;
+}
+/* Footer/ 
+/* Social Media link */
+footer a[href*="instagram"] {
+    color: var(--beet-pink);
+}
+
+/* Contact Us link */
+footer a[href="contact.html"] {
+    color: var(--turmeric-gold);
+}
+
+/* FAQ link */
+footer a[href="faq.html"] {
+    color: var(--cacao-brown);
 }
