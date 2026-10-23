@@ -23,6 +23,12 @@ body {
 header, main, footer {
     text-align: center;
 }
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
 
 h1, h2, h3 {
     color: var(--avocado-green);
@@ -80,12 +86,6 @@ footer a[href*="contact"] {
 /* FAQ link */
 footer a[href*="faq"] {
     color: var(--turmeric-gold);
-}
-nav {
-    display: flex;
-    flex-wrap: wrap;
-    /*gap: 1rem;*/
-    justify-content: space-between;
 }
 
 /* Switch to vertical layout on mobile */
