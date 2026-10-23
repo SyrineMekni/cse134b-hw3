@@ -75,3 +75,8 @@ footer a[href*="contact"] {
 footer a[href*="faq"] {
     color: var(--turmeric-gold);
 }
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
