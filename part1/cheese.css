@@ -31,7 +31,6 @@ blockquote {
 }
 a:hover {
     color: #D99A24;
-    transform: scale(1.8);
 }
 a:focus, 
 input:focus,
