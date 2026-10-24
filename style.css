@@ -117,7 +117,7 @@ footer > p {
 }
 /* Changes link color when the mouse hovers over it */
 a:hover {
-    color: var(--beet-pink);
+    color: var(--avocado-green);
 }
 
 /* Highlights links when navigating with the keyboard */
