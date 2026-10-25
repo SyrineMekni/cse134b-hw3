@@ -39,6 +39,9 @@ button:focus {
     outline-offset: 3px ;
 }
 
+/* Cascade in action */
+/* The second rule wins because it comes after the first rule, so it overrides it.  */
+
 h1 {
     text-align: left;
 }
