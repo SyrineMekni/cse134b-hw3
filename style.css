@@ -125,5 +125,11 @@ a:focus-visible {
     outline: 3px solid var(--avocado-green);
 }
 
+pudology-holiday {
+            display: block;
+            color: #1E431F;
+            border: 3px solid #C62828;
+            padding: 15px;
+        }
 
 
